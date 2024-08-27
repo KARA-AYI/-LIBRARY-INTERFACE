@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kutuphane_", "Kutuphane_\Kutuphane_.csproj", "{AD19BD42-0C79-42F6-9F66-0DCA259BD94E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD19BD42-0C79-42F6-9F66-0DCA259BD94E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD19BD42-0C79-42F6-9F66-0DCA259BD94E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD19BD42-0C79-42F6-9F66-0DCA259BD94E}.Debug|x64.ActiveCfg = Debug|x64
+		{AD19BD42-0C79-42F6-9F66-0DCA259BD94E}.Debug|x64.Build.0 = Debug|x64
+		{AD19BD42-0C79-42F6-9F66-0DCA259BD94E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD19BD42-0C79-42F6-9F66-0DCA259BD94E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD19BD42-0C79-42F6-9F66-0DCA259BD94E}.Release|x64.ActiveCfg = Release|x64
+		{AD19BD42-0C79-42F6-9F66-0DCA259BD94E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD381A53-3173-4CB4-92FC-18466DDCA232}
+	EndGlobalSection
+EndGlobal
